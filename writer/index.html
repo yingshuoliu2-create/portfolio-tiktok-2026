@@ -412,7 +412,6 @@
 <div class="hero-roles">
 <span class="chip" data-i="12">AI短剧编剧</span><span class="chip" data-i="340">AI 漫剧 · AIGC</span>
 <span class="chip" data-i="13">TikTok · 上海</span>
-
 <span class="chip" data-i="15">本科2026.03毕业 · 硕士已获录取</span>
 </div>
 <div class="role-switch"><a data-i="910" href="../index.html">内容运营版</a><a aria-current="page" data-i="911" href="../writer/index.html">编剧版</a><a data-i="912" href="../resume/writer.html">简历与下载</a></div></div>
@@ -787,6 +786,17 @@
     btn.setAttribute('title', l==='zh' ? 'Switch to English' : '切换为中文');
     
     document.querySelectorAll('[data-i="912"],[data-i="199"]').forEach(function(a){a.href=l==='en'?"../resume/writer-en.html":"../resume/writer.html";});
+    // Persist language in URLs as well as optional browser storage.
+    try{
+      var currentUrl = new URL(window.location.href);
+      currentUrl.searchParams.set('lang', l);
+      history.replaceState(history.state, '', currentUrl.href);
+    }catch(e){}
+    document.querySelectorAll('.role-switch [data-i="910"], .role-switch [data-i="911"]').forEach(function(a){
+      var targetUrl = new URL(a.getAttribute('href'), window.location.href);
+      targetUrl.searchParams.set('lang', l);
+      a.setAttribute('href', targetUrl.href);
+    });
     try{ localStorage.setItem('lang', l); }catch(e){}
   }
   var q = null, stored = null;
