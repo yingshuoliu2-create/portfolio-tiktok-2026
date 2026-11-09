@@ -8,7 +8,9 @@
 - [编剧版简历](https://yingshuoliu2-create.github.io/portfolio-tiktok-2026/resume/writer.html)
 - [运营版PDF](resume/ops-resume.pdf) · [编剧版PDF](resume/writer-resume.pdf)
 
-作品集保留中英文、深浅色切换与原有作品图像。页面默认中文，两条岗位路径按不同重点排序；中文简历提供HTML、PDF及TXT；英文简历提供HTML、TXT及浏览器打印。英文作品集会直接跳转到配套英文简历。
+作品集保留中英文、深浅色切换与原有作品图像。页面默认中文，两条岗位路径按不同重点排序；中文简历提供HTML、PDF及TXT；英文简历提供HTML、PDF、TXT及浏览器打印。英文作品集会直接跳转到配套英文简历。
+
+- [运营版英文PDF](resume/ops-resume-en.pdf) · [编剧版英文PDF](resume/writer-resume-en.pdf)
 
 ## 发布
 
