@@ -1,47 +1,55 @@
 Ivana Liu
-刘盈铄
-AI Short-Drama Content Operations Intern | TikTok · Shanghai
-Based in Beijing · Interested in Shanghai | +86 185-6392-3599 |
+Target role: AI Short-Drama Content Operations Intern
+TikTok · Shanghai
+Beijing · Interested in Shanghai
++86 185-6392-3599
 2586297610@qq.com
-View role-specific portfolio
-PROFILE
-Theatre and film training with hands-on overseas content experience. Independently ran a US TikTok AI-video account across topic research, scripting, production, publishing and review. Now developing a female-oriented AI comic drama and content workflows, with a focus on using feedback to improve topics, pacing and production hand-offs.
+Portfolio
+·
+Agent development
+01
 EDUCATION
-The University of Sydney
-Theatre & Performance Studies, Bachelor
-Aug 2022 - Mar 2026 · Degree conferred Mar 2026
-Focus on theatre performance and film studies; cross-cultural communication minor.
-RMIT University
-Master of Communication Design
-Offer received · Expected Mar 2027 intake
-Not yet enrolled.
-WRITING & PROJECT EXPERIENCE
+The University of Sydney | Theatre & Performance Studies, Bachelor
+Aug 2022 - Mar 2026
+Degree conferred Mar 2026. Theatre performance and film studies; cross-cultural communication minor.
+RMIT University | Master of Communication Design
+Expected Mar 2027
+Offer received; not yet enrolled.
+02
+PROFILE
+Theatre and film training combined with overseas content operations. Independently managed a US TikTok AI-video account across topic research, scripting, production and review; now developing a female-oriented comic drama and an Agent production console with AI-assisted TypeScript / React programming.
+03
+PROJECT EXPERIENCE
 US TikTok AI-video account | Independent operator
 May - Aug 2025
 Handled topic research, scripts, visual production, editing and publishing; organised AI-assisted scripting and multimodal production into a repeatable workflow.
 Used prompt templates and visual references, with manual consistency checks; used completion, engagement and comment feedback to inform subsequent topics, hooks and pacing.
 Female-oriented AI comic drama | Pre-production planning
 Jun 2026 - present
-Planning a 60-episode, 9:16 vertical series; defining hand-offs between story, characters, visual direction and shot design.
+Planning a 60-episode, 9:16 vertical series, currently in pre-production with no episodes released.
 Review criteria include opening hooks, character motivation, pacing, episode endings and character consistency.
-Currently in pre-production; no episodes released. The 60-episode figure is planned scope.
+AI-assisted development of a production console: TypeScript-based orchestration across 15 stages, dependency checks, Provider interfaces and human review checkpoints.
 Temu & TikTok Shop | Workflow design & brand planning
 Aug 2025 - present
 Organised trend research, AI-assisted design, content packaging, pre-listing checks and performance review into a workflow with defined hand-offs and human checkpoints.
 Midnight Tide | Short-film writer
 Wrote the short-film screenplay and submitted it to the FIRST International Film Festival ultra-short-film section.
+04
 INTERNSHIP EXPERIENCE
 Huanyu Entertainment | Distribution intern
 Dec 2022 - Jan 2023
 Supported overseas distribution through English materials, series selling points, project documentation and overseas market research.
 NetEase Youdao | Live-stream operations coordinator
 Sep - Dec 2022
-Supported Double 11 live-stream operations, host coordination and audience-interaction improvements.
+Supported Double 11 live-commerce operations, host collaboration, live-session coordination and audience-interaction improvements, contributing to a campaign that achieved seven-figure GMV in RMB.
+05
 SKILLS & LANGUAGES
-Content & production:
-dramatic structure, characters and world-building, hooks and pacing, prompt iteration, image/video generation, editing and human review.
-Current tool practice:
+Agent development
+Claude Code / Codex-assisted TypeScript / React programming; multi-stage dependency orchestration, tool/API interfaces, execution-state tracking and human review checkpoints.
+Content & AIGC
+Dramatic structure analysis, character and world-building, narrative hooks and pacing, prompt design and iteration, multimodal visual generation, post-production editing and content quality review.
+Production tools
 ChatGPT / Claude / Gemini; Midjourney; Stable Diffusion / ComfyUI; Seedance / Runway; CapCut.
-English:
-three years of English-taught study; English-language research and writing practice; IELTS 6.0.
+English
+Three years of English-taught study; English-language research and writing practice; IELTS 6.0.
 Bachelor’s degree conferred; master’s offer received, not yet enrolled. Start date and internship schedule can be discussed.
