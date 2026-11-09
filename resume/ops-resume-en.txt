@@ -17,7 +17,14 @@ Expected Mar 2027
 Offer received; not yet enrolled.
 02
 PROFILE
-Theatre and film training combined with overseas content operations. Independently managed a US TikTok AI-video account across topic research, scripting, production and review; now developing a female-oriented comic drama and an Agent production console with AI-assisted TypeScript / React programming.
+Storytelling & creative judgement:
+Training in dramatic structure, character development and screen-text analysis, with original short-film writing and female-oriented comic-drama planning practice.
+Overseas content & cross-cultural communication:
+English-taught education, US TikTok operations and overseas-distribution internship experience, covering English research, script copy and cross-cultural communication.
+Content operations & commercial awareness:
+Managed topic research, production, publishing and review; used completion, engagement and comment feedback to guide iteration, with live-commerce and cross-border e-commerce experience.
+AIGC production & Agent development:
+AI-assisted multimodal production and Claude Code / Codex coding practice; use TypeScript / React to define task dependencies, interfaces and human-review workflows.
 03
 PROJECT EXPERIENCE
 US TikTok AI-video account | Independent operator
