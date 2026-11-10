@@ -36,3 +36,33 @@ html[lang=en] body{font-size:8.5pt;line-height:1.45}html[lang=en] .who h1{font-s
 .skill-tools small{font-size:7.3pt;color:var(--mute);white-space:nowrap;letter-spacing:.1pt}
 .skill-tools>span>span{font-size:8pt;line-height:1.55}
 @media(max-width:650px){.skill-tools{grid-template-columns:1fr;gap:7px;margin-top:5px!important}.skill-tools>span{grid-template-columns:60px 1fr;gap:8px}.skill-tools small{font-size:10px}.skill-tools>span>span{font-size:12px}}
+
+/* Editorial rail layout: section labels form a stable navigation column. */
+@media(min-width:651px),print{
+ header{gap:16pt;padding-bottom:12pt;align-items:center}
+ .who{display:flex;align-items:center;gap:16pt}.identity{flex:none}
+ .who h1{font-size:27pt;letter-spacing:2.5pt;white-space:nowrap}
+ .who .latin{font-size:7.2pt;letter-spacing:2pt}
+ .who .aim{border-left:.6pt solid var(--line);padding-left:15pt;margin:0;font-size:9pt;line-height:1.7;max-width:160pt}
+ .hdr-right{max-width:43%;gap:9pt}.meta{font-size:7pt}.photo{width:19mm;height:24mm}
+ section{display:grid;grid-template-columns:46pt minmax(0,1fr);column-gap:14pt;margin-top:9pt;padding-top:9pt;border-top:.5pt solid var(--line)}
+ article>section:first-of-type{margin-top:0;padding-top:12pt;border-top:0}
+ h2{display:block;border:0;padding:0;margin:0;font-size:11.5pt;line-height:1.4;letter-spacing:.5pt}
+ h2 .ix{display:block;width:auto;font-size:15pt;color:var(--accent);font-weight:600;letter-spacing:-.3pt;line-height:1;margin-bottom:5pt}
+ h2 .section-name{display:block;width:2.2em;line-height:1.4}
+ h2 em{display:block;font-size:5.7pt;letter-spacing:.6pt;margin:5pt 0 0}
+ .section-body{min-width:0;border-left:.5pt solid var(--line);padding-left:12pt}
+ .profile-points{display:block}.profile-points li{margin-bottom:4pt;font-size:8.5pt;line-height:1.55}
+ .profile-points li:last-child{margin-bottom:0}.profile-points b{display:inline;font-size:8.5pt;margin:0}
+ .job{margin-bottom:6pt}.jhead{gap:8pt}.jtitle{font-size:8.8pt}.jdate{font-size:7pt}
+ .edu-note{font-size:8pt}.edu-record{margin-bottom:5pt}
+ .sk-text{grid-template-columns:67pt 1fr;gap:4pt 8pt;font-size:8.1pt}
+ .skill-tools{grid-template-columns:1fr;gap:1pt}.skill-tools>span{grid-template-columns:36pt 1fr;gap:4pt}.skill-tools>span>span{font-size:7.5pt}.skill-tools small{font-size:7pt}
+ html[lang=en] .who{display:block}html[lang=en] .who h1{font-size:27pt}html[lang=en] .who .aim{border:0;padding:0;margin-top:6pt;max-width:none;font-size:8pt}
+ html[lang=en] section{margin-top:8pt;padding-top:8pt}
+ html[lang=en] h2 .section-name{width:auto;font-size:6.7pt;line-height:1.5;letter-spacing:.6pt;overflow-wrap:normal}
+ html[lang=en] .profile-points li,html[lang=en] .profile-points b{font-size:8.2pt}
+ html[lang=en] .sk-text{grid-template-columns:62pt 1fr;font-size:8pt}
+}
+@media(max-width:650px){h2 .section-name{display:inline}.identity{display:block}.section-body{min-width:0}.who .aim{margin-top:12px}}
+@media(min-width:651px),print{html[lang=zh-CN] article>section:nth-of-type(4) p{font-size:8.6pt;line-height:1.55;text-wrap:pretty}html[lang=zh-CN] article>section:nth-of-type(4) p b{white-space:nowrap}}
