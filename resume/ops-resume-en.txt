@@ -55,7 +55,7 @@ Agent development
 Claude Code / Codex-assisted TypeScript / React programming; multi-stage dependency orchestration, tool/API interfaces, execution-state tracking and human review checkpoints.
 Content & AIGC
 Dramatic structure analysis, character and world-building, narrative hooks and pacing, prompt design and iteration, multimodal visual generation, post-production editing and content quality review.
-Production tools
+AI skills
 ChatGPT / Claude / Gemini; Midjourney; Stable Diffusion / ComfyUI; Seedance / Runway; CapCut.
 English
 Three years of English-taught study; English-language research and writing practice; IELTS 6.0.

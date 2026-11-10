@@ -63,7 +63,7 @@ AI Agent开发
 基于Claude Code / Codex开展TypeScript / React辅助编程，构建多阶段任务编排、工具/API接口、运行状态追踪与人工审核流程。
 内容策划与AIGC
 剧作结构分析、角色与世界观构建、叙事钩子设计与节奏优化、提示词设计与迭代、多模态影像生成、后期剪辑及内容质量审核。
-制作工具
+AI应用技能
 ChatGPT / Claude / Gemini；Midjourney；Stable Diffusion / ComfyUI；Seedance / Runway；CapCut。
 语言能力
 三年英文授课，具备英文内容研究、文案创作与跨文化沟通实践；IELTS 6.0。
