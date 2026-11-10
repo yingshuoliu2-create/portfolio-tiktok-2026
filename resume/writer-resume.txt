@@ -64,7 +64,10 @@ AI Agent开发
 内容策划与AIGC
 剧作结构分析、角色与世界观构建、叙事钩子设计与节奏优化、提示词设计与迭代、多模态影像生成、后期剪辑及内容质量审核。
 AI应用技能
-ChatGPT / Claude / Gemini；Midjourney；Stable Diffusion / ComfyUI；Seedance / Runway；CapCut。
+语言模型：ChatGPT / Claude / Gemini
+图像生成：Midjourney / Stable Diffusion / ComfyUI
+视频生成：Seedance / Runway
+后期剪辑：CapCut
 语言能力
 三年英文授课，具备英文内容研究、文案创作与跨文化沟通实践；IELTS 6.0。
 本科已毕业，硕士已获录取、尚未入学；到岗日期与实习安排可进一步沟通。
