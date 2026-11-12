@@ -66,3 +66,16 @@ html[lang=en] body{font-size:8.5pt;line-height:1.45}html[lang=en] .who h1{font-s
 }
 @media(max-width:650px){h2 .section-name{display:inline}.identity{display:block}.section-body{min-width:0}.who .aim{margin-top:12px}}
 @media(min-width:651px),print{html[lang=zh-CN] article>section:nth-of-type(4) p{font-size:8.6pt;line-height:1.55;text-wrap:pretty}html[lang=zh-CN] article>section:nth-of-type(4) p b{white-space:nowrap}}
+
+/* Profile refinement: four distinct strengths on an open two-column grid. */
+@media(min-width:651px),print{
+ .profile-points{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8pt 15pt}
+ .profile-points li{margin:0;font-size:8.3pt;line-height:1.6}
+ .profile-points b{display:block;font-size:8.5pt;color:var(--accent);margin-bottom:3pt}
+ .sk-text{row-gap:5pt}
+ .skill-tools{gap:2pt}
+ .skill-tools small{font-size:7.4pt;color:#607080}
+ .skill-tools>span>span{font-size:8pt}
+ html[lang=en] .profile-points li{font-size:8pt;line-height:1.5}
+ html[lang=en] .profile-points b{font-size:8.1pt;margin-bottom:3pt}
+}
